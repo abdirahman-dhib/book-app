@@ -2,15 +2,19 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screen Shoots for my projects
 
-This project is a starting point for a Flutter application.
+#SigUpp
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1675657020](https://user-images.githubusercontent.com/82392272/216885040-9089d5e5-8c50-4fb5-b2db-2b681841e213.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##Log In
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+.![Screenshot_1675657209](https://user-images.githubusercontent.com/82392272/216885143-d030f5ac-2298-4ffb-9721-29a5ed4e54cd.png)
+
+## HomeScreen
+![Screenshot_1675657400](https://user-images.githubusercontent.com/82392272/216885178-d2a9f41a-a866-4333-837f-7256754edc51.png)
+
+## Details
+
+![Screenshot_1675657651](https://user-images.githubusercontent.com/82392272/216885207-d6001504-7ae5-47de-9917-1354e8c17cb0.png)
